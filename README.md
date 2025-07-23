@@ -1,5 +1,7 @@
 # dcollect
 dcollect is a kotlin mobile application field officers use to record basic information about farmers they visit
+# link to Architecture Diagram:  
+-https://docs.google.com/document/d/13_6247S_zbt32aY-ZoyhvTGOeEoUquq46iLuspnv5dM/edit?usp=sharing 
 # Farmer Registration App
 
 An offline-first Android app for agricultural field officers to register farmer information in rural areas. The app collects:
